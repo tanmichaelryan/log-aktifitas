@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "nama": "screenshot stand up",
+      "inisiatif": "Pengelolaan keselarasan antar inisiatif dan antar squad dalam platform Sumber Daya Sekolah",
+      "epic": "Koordinasi Penyelarasan Antar Fungsi",
+      "task": "Koordinasi, diskusi, dan evaluasi terkait kinerja dan pelaksanaan kegiatan fungsi",
+      "aktifitas": "Memimpin diskusi dengan anggota tim terkait performa dalam 2 minggu"
+    },
+    {
+      "nama": "screenshot lainnya",
+      "inisiatif": "",
+      "epic": "",
+      "task": "",
+      "aktifitas": ""
+    },
+    {
+      "nama": "screenshot cuti",
+      "inisiatif": "",
+      "epic": "",
+      "task": "",
+      "aktifitas": "cuti"
+    }
+  ]
+}
