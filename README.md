@@ -45,9 +45,10 @@ every required file is case sensitive
   ]
 }
 ```
-5. run the `log-aktifitas.exe` file.
+5. save your screenshot using `windows snipping tools` so the format will be `Screenshot YYYY-MM-DD*` (for now the filename need to be exactly like this) 
+6. run the `log-aktifitas.exe` file.
 
-sample result
+sample result if you run `log-aktifitas.exe` with everthing in the repo
 ```
 2023-03-28;Sumber Daya Sekolah;Sprint 7;Pengelolaan keselarasan antar inisiatif dan antar squad dalam platform Sumber Daya Sekolah;Koordinasi Penyelarasan Antar Fungsi;Koordinasi, diskusi, dan evaluasi terkait kinerja dan pelaksanaan kegiatan fungsi;Memimpin diskusi dengan anggota tim terkait performa dalam 2 minggu;maret/screenshot stand up/Screenshot 2023-03-28 170803.png
 2023-03-28;Sumber Daya Sekolah;Sprint 7;;;;;maret/screenshot lainnya/Screenshot 2023-03-28 170720.png
