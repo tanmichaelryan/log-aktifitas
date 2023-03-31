@@ -186,8 +186,8 @@ func main() {
 			date, _ := time.Parse("2006-01-02", filename[11:21])
 			sprint := getSprint(config.Sprints, date)
 			if filepath.Ext(filename) == config.Extension {
-				newFilename = t.Nama+" - "+filename
-				err = CopyFile(dir+"/"+filename, "screenshot upload/"+newFilename
+				newFilename := t.Nama + " - " + filename
+				err = CopyFile(dir+"/"+filename, "screenshot upload/"+newFilename)
 				// ioutil.WriteFile(dst, data, 0644)
 				if err != nil {
 					log.Fatal(err)
@@ -202,7 +202,7 @@ func main() {
 					Aktifitas: t.Aktifitas,
 					Sprint:    sprint,
 					Tanggal:   date,
-					bukti:     fmt.Sprintf(newFilename, config.Dir, t.Nama, filename),
+					bukti:     newFilename,
 				}
 
 				results = append(results, r)
