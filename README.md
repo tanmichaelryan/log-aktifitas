@@ -6,8 +6,10 @@ every required file is case sensitive
 2. `tasks.json` </br>
   this file will be used for tasks mapping. the **nama** will be used to map the folder in screenshot folder  </br>
   `file path : "change this/config,json"`
-3. screenshot folder <br/>
+3. `screenshot` folder <br/>
    need to have folder named "screenshot" to be the base folder of you screenshot
+4. `screenshot upload` folder <br/>
+   to upload the file into google drive
 
 # How to use
 1. create folder in your screenshot folder (in this example the folder is "maret")
