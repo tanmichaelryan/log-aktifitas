@@ -3,6 +3,7 @@ result.csv
 screenshot/maret/*
 screenshot upload/*
 
+!screenshot upload/delete.me
 !change this/sample-config.json
 !change this/sample-tasks.json
 !screenshot/maret/screenshot lainnya/
