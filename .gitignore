@@ -9,3 +9,5 @@ screenshot upload/*
 !screenshot/maret/screenshot lainnya/
 !screenshot/maret/screenshot cuti/
 !screenshot/maret/screenshot stand up/
+
+*.exe
